@@ -1,6 +1,7 @@
 themes=(
 	casper
 	lyra
+	michael-brandorff-ghost
 )
 
 for theme in "${themes[@]}"
