@@ -22,6 +22,7 @@
     "node": "12.X"
   },
   "dependencies": {
+    "casper": "github:tryghost/Casper",
     "ghost": "^4.7.0",
     "ghost-storage-adapter-s3": "^2.8.0",
     "ghost-storage-cloudinary": "^2.1.5",
